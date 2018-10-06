@@ -36,6 +36,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 tableOfContents: Hamlet -- King Lear -- Othello
 title: The Works of William Shakespeare [Cambridge Edition] [Vol. 8 of 9 vols.]
 url: http://www.gutenberg.org/ebooks/49008
